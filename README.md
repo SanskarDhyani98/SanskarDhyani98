@@ -1,12 +1,10 @@
-### Hi there 👋
-
+[![MasterHead](https://img.bitgetimg.com/multiLang/web/606d007c8b6065f0923e8452daed763c.png)]
 <h1 align="center">Hi 👋, I'm Sanskar Dhyani</h1>
 <h3 align="center">🌐 Web2 ⚡ Web3 Enthusiast | JAVA - My first love</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskardhyani98&label=Profile%20views&color=0e75b6&style=flat" alt="sanskardhyani98" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF3YjU2amdlbXViZ3YzY293OXl4eHVpend5bzM4d3M3eDM2d3ZkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskardhyani98" alt="sanskardhyani98" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sanskar_dh4714" target="blank"><img src="https://img.shields.io/twitter/follow/sanskar_dh4714?logo=twitter&style=for-the-badge" alt="sanskar_dh4714" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript and React.**
