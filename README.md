@@ -1,4 +1,4 @@
-[![MasterHead](https://img.bitgetimg.com/multiLang/web/606d007c8b6065f0923e8452daed763c.png)]
+![MasterHead](https://img.bitgetimg.com/multiLang/web/606d007c8b6065f0923e8452daed763c.png)]
 <h1 align="center">Hi 👋, I'm Sanskar Dhyani</h1>
 <h3 align="center">🌐 Web2 ⚡ Web3 Enthusiast | JAVA - My first love</h3>
 
